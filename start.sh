@@ -1,0 +1,1 @@
+nohup npm start > netstats.log 2>&1 &
